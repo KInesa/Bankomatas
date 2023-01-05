@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankomatas", "Bankomatas.csproj", "{F9F491F6-A304-4770-A0FB-224761D9ADC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F491F6-A304-4770-A0FB-224761D9ADC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F491F6-A304-4770-A0FB-224761D9ADC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F491F6-A304-4770-A0FB-224761D9ADC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F491F6-A304-4770-A0FB-224761D9ADC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D210EA-39BD-4EEB-A26D-1AF3CDAA6E08}
+	EndGlobalSection
+EndGlobal
